@@ -8,5 +8,6 @@ cursor = conn.cursor()
 cursor.execute("""CREATE TABLE population
 (city TEXT, state TEXT, population INT)
 """)
+
 # close the database connection
 conn.close()
