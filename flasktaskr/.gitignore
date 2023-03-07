@@ -1,0 +1,7 @@
+env
+venv
+flasktaskr
+*.pyc
+__pycache__
+*.DS_Store
+project/_config.py
